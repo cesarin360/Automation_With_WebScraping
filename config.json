@@ -1,0 +1,15 @@
+{
+    "login": 
+    [
+        {
+            "user":"cgarciap8@miumg.edu.gt",
+            "password": "i!$1jc9Q",
+            "Folder": "Casos_covid",
+            "url1": "https://gtmvigilanciacovid.shinyapps.io/3869aac0fb95d6baf2c80f19f2da5f98/",
+            "path": "C:/Users/josue/Documents/Casos_covid/Fallecidos por municipio, fecha de fallecimiento del 2020-02-13 al",
+            "driver": "C:/Users/josue/Documents/curso_python/Selenium/chromedriver.exe",
+            "pathd": "C:/Users/josue/Documents/Casos_covid/Fallecidos_covid19.xlsx",
+            "Deletefile": "Fallecidos_covid19"
+        } 
+    ]   
+}
